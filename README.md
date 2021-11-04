@@ -1,2 +1,2 @@
-# frontendpatikahtmlodev1
+# Front-end-ilk-proje
 İlk Odev
